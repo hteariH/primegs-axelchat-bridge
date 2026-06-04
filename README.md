@@ -64,10 +64,10 @@ AxelChat нативно prime.gs не поддерживает, но его HTTP
 Рядом с работающим AxelChat:
 
 ```bash
-python primegs_bridge.py 257
+python primegs_bridge.py 1299
 ```
 
-где `257` — id чата из URL `https://prime.gs/chat/257/messages`.
+где `1299` — id чата из URL `https://prime.gs/chat/1299/messages`.
 
 ### Конфиг
 
