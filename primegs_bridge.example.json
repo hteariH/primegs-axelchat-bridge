@@ -1,0 +1,8 @@
+{
+    "chat_id": "257",
+    "axel_url": "http://127.0.0.1:8356",
+    "interval": 2.0,
+    "period": "current_stream",
+    "limit": 50,
+    "backfill": false
+}

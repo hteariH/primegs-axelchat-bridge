@@ -1,0 +1,19 @@
+# Сборка PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Локальный конфиг пользователя (генерируется автоматически)
+primegs_bridge.json
+
+# Редакторы / инструменты
+.claude/
+.idea/
+.vscode/
